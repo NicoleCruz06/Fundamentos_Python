@@ -4,6 +4,11 @@ Esta pasta contém a minha resolução para a lista de exercícios focada em **C
 
 Os algoritmos sequenciais são a base de qualquer programa. Aqui, pratiquei a lógica mais pura do desenvolvimento de software: instruções que são executadas passo a passo, de cima para baixo, em uma ordem linear e previsível.
 
+* **Instituição:** Centro Universitário de Brasília (CEUB)
+* **Curso:** Ciência de Dados e Machine Learning
+* **Disciplina:** Lógica de Programação
+* **Período:** 1º Semestre / 2026
+  
 ---
 
 ## Conceitos Praticados
@@ -13,3 +18,6 @@ Os algoritmos sequenciais são a base de qualquer programa. Aqui, pratiquei a l�
 * **Formatação de Strings:** Uso de f-strings para exibir resultados de forma elegante e legível.
 
 ---
+
+## Conecte-se Comigo
+* [Meu LinkedIn](https://www.linkedin.com/in/nicole-viana-cruz-b609ab40b/) | [Meu Portfólio Central](https://readdy.ai/project/47a87a35-b485-4b36-a932-12d7ef03457a)
