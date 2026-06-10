@@ -6,7 +6,7 @@ A modularização é um dos hábitos mais importantes de uma boa desenvolvedora.
 
 * **Instituição:** Centro Universitário de Brasília (CEUB)
 * **Curso:** Ciência de Dados e Machine Learning
-* **Disciplina:** Bootcamp de Implantação
+* **Disciplina:** Lógica de Programação
 * **Período:** 1º Semestre / 2026
 
 ---
