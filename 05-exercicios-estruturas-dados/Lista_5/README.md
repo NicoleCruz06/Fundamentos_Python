@@ -4,6 +4,11 @@ Esta pasta contém a minha resolução para a lista de exercícios focada em **E
 
 Aqui é onde a programação começa a flertar diretamente com a Ciência de Dados! Aprendi a ir além de variáveis simples para organizar, armazenar e manipular grupos de informações de forma muito mais inteligente e performática.
 
+* **Instituição:** Centro Universitário de Brasília (CEUB)
+* **Curso:** Ciência de Dados e Machine Learning
+* **Disciplina:** Lógica de Programação
+* **Período:** 1º Semestre / 2026
+
 ---
 
 ## Conceitos Praticados
@@ -13,3 +18,6 @@ Aqui é onde a programação começa a flertar diretamente com a Ciência de Dad
 * **Conjuntos (`set`):** Manipulação de coleções de elementos únicos (sem duplicatas) e operações matemáticas de conjuntos (união, interseção).
 
 ---
+
+## Conecte-se Comigo
+* [Meu LinkedIn](https://www.linkedin.com/in/nicole-viana-cruz-b609ab40b/) | [Meu Portfólio Central](https://readdy.ai/project/47a87a35-b485-4b36-a932-12d7ef03457a)
