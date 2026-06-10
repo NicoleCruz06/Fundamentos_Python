@@ -24,7 +24,7 @@ Os projetos e scripts desta pasta foram construídos para dominar os pilares ess
 * 📂 **[03_Lista While](./03-exercicios-while/Lista_3)**: Treinos focados no comando de repetição while para criar loops baseados em condições e desenvolver menus interativos via terminal.
 * 📂 **[04 Lista For](./04-exercicios-for/Lista_4)**: Resolução de problemas utilizando o laço for e a função range para iterar sobre sequências numéricas e intervalos controlados.
 * 📂 **[05 Lista Estruturas de Dados](./05-exercicios-estruturas-dados/Lista_5)**: Exercícios de fixação sobre manipulação e organização de dados coletivos, com foco em Listas e Dicionários.
-* 📂 **[06 Lista Funções](./06-exercicios-funcoes/Lista_6)**: Códigos dedicados à criação de funções personalizadas (def) para aprender a quebrar e reutilizar blocos de lógica de forma organizada.
+* 📂 **[06 Lista Funções](./06-exercicios-funcoes/Lista_06)**: Códigos dedicados à criação de funções personalizadas (def) para aprender a quebrar e reutilizar blocos de lógica de forma organizada.
 ---
 
 ## Ferramentas Utilizadas
