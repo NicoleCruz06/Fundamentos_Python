@@ -4,6 +4,11 @@ Esta pasta contém a minha resolução para a lista de exercícios focada em **C
 
 Aqui, o código deixa de ser puramente linear e passa a "tomar decisões". Aprendi a fazer o programa desviar seu caminho e executar blocos de código específicos dependendo se uma condição é verdadeira ou falsa.
 
+* **Instituição:** Centro Universitário de Brasília (CEUB)
+* **Curso:** Ciência de Dados e Machine Learning
+* **Disciplina:** Lógica de Programação
+* **Período:** 1º Semestre / 2026
+  
 ---
 
 ## Conceitos Praticados
@@ -13,3 +18,6 @@ Aqui, o código deixa de ser puramente linear e passa a "tomar decisões". Apren
 * **Validação de Dados:** Criação de regras de negócio simples para evitar erros ou entradas inválidas.
 
 ---
+
+## Conecte-se Comigo
+* [Meu LinkedIn](https://www.linkedin.com/in/nicole-viana-cruz-b609ab40b/) | [Meu Portfólio Central](https://readdy.ai/project/47a87a35-b485-4b36-a932-12d7ef03457a)
