@@ -19,11 +19,12 @@ Os projetos e scripts desta pasta foram construídos para dominar os pilares ess
 
 ## 📁 Meus Projetos Iniciais
 
-* 📂 **[01_Calculadora_Interativa](./01_Calculadora_Interativa)**: Programa via terminal que aplica conceitos de funções e loops para realizar operações matemáticas de forma contínua.
-* 📂 **[02_Simulador_Votacao](./02_Simulador_Votacao)**: Um pequeno sistema que simula a apuração de votos de uma eleição, aplicando estruturas condicionais e contadores (já flertando com a lógica de setor público!).
-* 📂 **[03_Gerenciador_Tarefas](./03_Gerenciador_Tarefas)**: Aplicativo em modo texto para criar, listar e remover tarefas, utilizando dicionários e salvamento em arquivo local.
-* 📂 **[Exercicios_Logica](./Exercicios_Logica)**: Minha coleção de desafios resolvidos para fixação de algoritmos (como os clássicos do curso de Ciência de Dados do CEUB).
-
+* 📂 **[01_Lista Sequência](./01-exercicio-sequencia/Lista_1)**: Exercícios focados na execução linear de códigos, cobrindo variáveis, entrada e saída de dados e operações matemáticas básicas.
+* 📂 **[02_Lista Seleção](./02-exercicio-selecao/Lista_2)**: Desafios práticos utilizando estruturas condicionais (if, elif, else) para fazer o programa tomar decisões e validar dados.
+* 📂 **[03_Lista While](./03-exercicios-while/Lista_3)**: Treinos focados no comando de repetição while para criar loops baseados em condições e desenvolver menus interativos via terminal.
+* 📂 **[04 Lista For](./04-exercicios-for/Lista_4)**: Resolução de problemas utilizando o laço for e a função range para iterar sobre sequências numéricas e intervalos controlados.
+* 📂 **[05 Lista Estruturas de Dados](./05-exercicios-estruturas-dados/Lista_5)**: Exercícios de fixação sobre manipulação e organização de dados coletivos, com foco em Listas e Dicionários.
+* 📂 **[06 Lista Funções](./06-exercicios-funcoes/Lista_6)**: Códigos dedicados à criação de funções personalizadas (def) para aprender a quebrar e reutilizar blocos de lógica de forma organizada.
 ---
 
 ## Ferramentas Utilizadas
@@ -33,3 +34,9 @@ Os projetos e scripts desta pasta foram construídos para dominar os pilares ess
 * **Controle de Versão:** Git Bash e GitHub
 
 ---
+
+## Conecte-se Comigo
+
+Quer trocar uma ideia sobre como a ciência de dados pode melhorar a gestão pública e os programas sociais no Brasil?
+* [Meu LinkedIn](https://www.linkedin.com/in/nicole-viana-cruz-b609ab40b/)
+* [Meu Portfólio Central](https://readdy.ai/project/47a87a35-b485-4b36-a932-12d7ef03457a)
